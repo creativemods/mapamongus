@@ -1,0 +1,79 @@
+{
+	"Ads":
+  [
+    {
+      "status":"0",
+      "link":"http://",
+      "pengaturan_iklan":"0",
+      "admob_open_ads":"",
+      "admob_banner":"",
+      "admob_inter":"",
+      "admob_native":"",
+      "interval":5,
+      "fan_inter":"",
+      "fan_banner":"",
+      "fan_native":"",
+      "startappid":""
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "judul":"Kawaii Skin",
+      "image":"https://play-lh.googleusercontent.com/NCez2o_YvLOYt6mJjqj3dIUaGn66SfGvFKF0I1Sp7Nn5N9tbss402hXvyJu3rm1iFC4R=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.creativemods.kawaiiskinmcpe"
+    },
+    {
+      "id":2,
+      "judul":"Dream Skin",
+      "image":"https://play-lh.googleusercontent.com/5KZz8n00Taihr5SpGckMO_JES9H9jfcoPu6T2uYvwgORw7yy0mZNUbWYl7lgt2dUf_6x=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.creativemods.dreamskinformcpe"
+    },
+    {
+      "id":3,
+      "judul":"Zombie Skin",
+      "image":"https://play-lh.googleusercontent.com/QYAvF7FIjPTfMDkVyOBKLtpOGF3Qx2I_AWFhSIgO6PGRE0lFQUTYxDWQrSNVpQzAbZo=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.creativemods.zombieskinminecraft"
+    }
+  ],
+  "Skin":
+  [
+
+  ],
+  "Addons":
+  [
+
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "nama_map":"Among imposter:Airship Map",
+      "map_url":"https://rastariski01.github.io/AmongAirshipMap/airship%20map%20among1.zip",
+      "view_map":"https://creativemods.github.io/mapamongus/map/map1.png",
+      "des_map":"https://creativemods.github.io/mapamongus/map/map.html"
+    },
+    {
+      "id":2,
+      "nama_map":"Among imposter:Airship Map",
+      "map_url":"https://rastariski01.github.io/AmongAirshipMap/airship%20map%20among2.zip",
+      "view_map":"https://creativemods.github.io/mapamongus/map/map2.png",
+      "des_map":"https://creativemods.github.io/mapamongus/map/map.html"
+    },
+    {
+      "id":3,
+      "nama_map":"Among imposter:Airship Map",
+      "map_url":"https://rastariski01.github.io/AmongAirshipMap/airship%20map%20among3.zip",
+      "view_map":"https://creativemods.github.io/mapamongus/map/map3.png",
+      "des_map":"https://creativemods.github.io/mapamongus/map/map.html"
+    },
+    {
+      "id":4,
+      "nama_map":"Among imposter:Airship Map",
+      "map_url":"https://rastariski01.github.io/AmongAirshipMap/airship%20map%20among4.zip",
+      "view_map":"https://creativemods.github.io/mapamongus/map/map4.png",
+      "des_map":"https://creativemods.github.io/mapamongus/map/map.html"
+    }
+  ]
+}
