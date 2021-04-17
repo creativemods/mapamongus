@@ -139,7 +139,7 @@
       "addB_url":"https://archive.org/download/guns_20201003/Guns/guns-B.mcpack",
       "addR_url":"https://archive.org/download/guns_20201003/Guns/guns-R.mcpack",
       "view_add":"https://archive.org/download/guns_20201003/Guns/guns.png",
-      "des_add":"https://creativemods.github.io/weapon/addon/adon.html"
+      "des_add":"https://creativemods.github.io/mapamongus/map/addon.html"
     },
     {
       "id":2,
@@ -148,7 +148,7 @@
       "addB_url":"https://archive.org/download/Actualgun/Guns/Actualgun-B.mcpack",
       "addR_url":"https://archive.org/download/Actualgun/Guns/Actualgun-R.mcpack",
       "view_add":"https://ia601502.us.archive.org/27/items/Actualgun/Guns/actualguns.png",
-      "des_add":"https://creativemods.github.io/weapon/addon/adon.html"
+      "des_add":"https://creativemods.github.io/mapamongus/map/addon.html"
     },
     {
       "id":3,
@@ -157,7 +157,7 @@
       "addB_url":"https://archive.org/download/Laserguns/Laser%20Guns/Laserguns-B.mcpack",
       "addR_url":"https://archive.org/download/Laserguns/Laser%20Guns/Laserguns-R.mcpack",
       "view_add":"https://ia601509.us.archive.org/21/items/Laserguns/Laser%20Guns/laserguns.png",
-      "des_add":"https://creativemods.github.io/weapon/addon/adon.html"
+      "des_add":"https://creativemods.github.io/mapamongus/map/addon.html"
     },
     {
       "id":4,
@@ -166,7 +166,7 @@
       "addB_url":"https://archive.org/download/imposter_202010/Imposter/Imposter-B.mcpack",
       "addR_url":"https://archive.org/download/imposter_202010/Imposter/Imposter-R.mcpack",
       "view_add":"https://ia601407.us.archive.org/1/items/imposter_202010/Imposter/theimposter.png",
-      "des_add":"https://creativemods.github.io/weapon/addon/adon.html"
+      "des_add":"https://creativemods.github.io/mapamongus/map/addon.html"
     },
     {
       "id":5,
@@ -175,7 +175,7 @@
       "addB_url":"https://archive.org/download/Uncraftingtable/Uncrafting%20Table/Uncraftingtable-B.mcpack",
       "addR_url":"https://archive.org/download/Uncraftingtable/Uncrafting%20Table/Uncraftingtable-R.mcpack",
       "view_add":"https://ia801401.us.archive.org/17/items/Uncraftingtable/Uncrafting%20Table/uncraftingtable.png",
-      "des_add":"https://creativemods.github.io/weapon/addon/adon.html"
+      "des_add":"https://creativemods.github.io/mapamongus/map/addon.html"
     }
   ],
   "Maps":
